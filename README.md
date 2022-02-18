@@ -7,5 +7,5 @@
 
 3. Run SWIF(r) train according to section instructions
 
-4. Run SWIF(r) test on files in the "classified" folder
+4. Run SWIF(r) test on files according to section instructions
 
