@@ -6,4 +6,4 @@
   * SWIFr_train_seeds_rm_w3
 2. Train using SWIF(r)
 3. Run SWIF(r) on files in classified folder (subfolder within each folder downloaded above)
-4. Use commands in "graphing.py" to create graphs interatively
+4. Use commands in "graphing.py" to create graphs interactively
