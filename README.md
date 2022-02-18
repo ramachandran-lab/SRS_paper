@@ -2,7 +2,7 @@
 
 1. Install SWIF(r)
 
-2. Download data and SWIF(r) folder for each section
+2. Download data and SWIF(r) model folders for each section
 	* Note that data is not publicly available for UKB analysis
 
 3. Run SWIF(r) train according to section instructions
