@@ -9,4 +9,3 @@
 
 4. Run SWIF(r) test on files in the "classified" folder
 
-5. Reproduce graphs as desired using classified files as the source
